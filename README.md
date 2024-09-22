@@ -4,7 +4,7 @@ Hello Everyone,
 
 In this comprehensive analysis, we will delve into various aspects of car sales, focusing on key metrics such as performance, make & model, manufacturing companies, customer sentiment, dealerships, and regional trends by using groupby method. Our goal is to uncover valuable insights that can drive strategic decision-making for stakeholders in the automotive industry.
 
-We will begin by importing the relevant dataset from Kaggle and conducting Exploratory Data Analysis (EDA) to understand the underlying patterns and relationships in the data. Through this process, we will be able to identify influential factors that contribute to sales performance and how they vary across different dimensions.
+To begin by importing the relevant dataset from Kaggle and conducting Exploratory Data Analysis (EDA) to understand the underlying patterns and relationships in the data. Through this process, we will be able to identify influential factors that contribute to sales performance and how they vary across different dimensions.
 
 The following Python libraries will be utilized to facilitate our analysis:
 
